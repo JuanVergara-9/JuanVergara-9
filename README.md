@@ -60,7 +60,7 @@
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/juan-vergara](www.linkedin.com/in/juan-ignacio-vergara)
+- LinkedIn: [linkedin.com/in/juan-vergara](www.linkedin.com/in/juan-ignacio-vergara/)
 - Portfolio: [mi-portafolio.vercel.app](https://portafolio-jv-five.vercel.app/)
 
 ---
