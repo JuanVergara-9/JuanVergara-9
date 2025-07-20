@@ -51,16 +51,16 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanvergara&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanvergara&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Contacto
 
-- LinkedIn: [linkedin.com/in/juan-vergara](www.linkedin.com/in/juan-ignacio-vergara/)
+- LinkedIn: [linkedin.com/in/juan-vergara](https://www.linkedin.com/in/juan-ignacio-vergara/)
 - Portfolio: [mi-portafolio.vercel.app](https://portafolio-jv-five.vercel.app/)
 
 ---
