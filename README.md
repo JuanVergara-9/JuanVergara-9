@@ -5,8 +5,9 @@
 
 ### 🚀 Proyectos destacados
 
-- 🛠️ [**MiServicio**](https://mi-servicio.netlify.app) – Plataforma de búsqueda y contratación de servicios locales. Incluye login, perfiles, geolocalización, reseñas y paneles para usuarios y proveedores.
+- 🛠️ [**miservicio**](https://mi-servicio.netlify.app) – Plataforma de búsqueda y contratación de servicios locales. Incluye login, perfiles, geolocalización, reseñas y paneles para usuarios y proveedores.
 - 📚 [**Bibliotheca**](https://bibliotheca.netlify.app) – App que consume la API de Google Books y permite guardar libros favoritos. Diseño renacentista y sistema de autenticación con backend propio.
+- 📦 [**Microservicios**] - Backend que maneja la logica de 4 servicios: Inventario, Catalogo, Compras, Pagos.
 
 ---
 
@@ -51,9 +52,9 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </p>
 
 ---
