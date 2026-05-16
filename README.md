@@ -1,69 +1,53 @@
 <h1 align="center">Hola 👋, soy Juan Vergara</h1>
-<h3 align="center">Emprendedor y Desarrollador Full Stack apasionado por crear experiencias digitales increíbles</h3>
+<h3 align="center">Emprendedor, Consultor Tech y Creador de Soluciones Digitales</h3>
+
+<p align="center">
+  Soy estudiante de Ingeniería en Sistemas, CEO de <b>miservicio</b> y desarrollador Full Stack con un fuerte enfoque en arquitecturas <i>Zero UI</i>. Me apasiona usar la tecnología para automatizar procesos y crear experiencias de usuario impecables.
+</p>
 
 ---
 
-### 🚀 Proyectos destacados
+### 🚀 Proyectos Destacados
 
-- 🛠️ [**miservicio**](https://mi-servicio.netlify.app) – Plataforma de búsqueda y contratación de servicios locales. Incluye login, perfiles, geolocalización, reseñas y paneles para usuarios y proveedores.
-- 📚 [**Bibliotheca**](https://bibliotheca.netlify.app) – App que consume la API de Google Books y permite guardar libros favoritos. Diseño renacentista y sistema de autenticación con backend propio.
-- 📦 [**Microservicios**] - Backend que maneja la logica de 4 servicios: Inventario, Catalogo, Compras, Pagos.
+- 🛠️ [**miservicio**](https://mi-servicio.netlify.app) – Plataforma de búsqueda y contratación de servicios locales. Arquitectura orientada a "Zero UI" con chatbot en WhatsApp, geolocalización y paneles para usuarios/proveedores.
+- 📚 [**Bibliotheca**](https://bibliotheca.netlify.app) – App que consume la API de Google Books. Diseño renacentista y sistema de autenticación con backend propio.
+- 📦 [**Microservicios**] – Backend robusto que maneja la lógica de 4 servicios independientes: Inventario, Catálogo, Compras y Pagos.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 💻 Stack Tecnológico
 
-#### 🧑‍💻 Lenguajes y frameworks
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-#### 🗃️ Bases de datos
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-
-#### 🧱 Arquitectura
-
-![Microservicios](https://img.shields.io/badge/-Microservicios-FF6B6B?style=flat&logo=docker&logoColor=white)
-![API Gateway](https://img.shields.io/badge/-API--Gateway-4B5563?style=flat)
-
-#### 🎨 Frontend
-
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### 🔐 Autenticación
-
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=jsonwebtokens)
-![OAuth](https://img.shields.io/badge/-OAuth2-EB5424?style=flat&logo=oauth)
-
-#### 🔧 DevOps / Deployment
-
-![CapRover](https://img.shields.io/badge/-CapRover-264653?style=flat&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0D?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+<!-- Usar skillicons mantiene todo con el mismo diseño, tamaño y forma, dándole un look premium -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,docker,vite,tailwind,netlify&perline=6" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
 ### 📈 Estadísticas de GitHub
 
+<!-- Tarjetas transparentes sin bordes que se adaptan perfecto al modo claro y oscuro. locale=es lo pone en español -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&bg_color=00000000&locale=es" alt="Estadísticas de Juan" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&hide_border=true&title_color=38B2AC&bg_color=00000000&locale=es" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 📫 Conectemos
 
-- LinkedIn: [linkedin.com/in/juan-vergara](https://www.linkedin.com/in/juan-ignacio-vergara/)
-- Portfolio: [mi-portafolio.vercel.app](https://portafolio-jv-five.vercel.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-ignacio-vergara/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portafolio-jv-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
----
-
-> *“La tecnología bien usada no solo resuelve problemas: transforma vidas.”* 🚀
+<br>
+<p align="center">
+  <i>“La tecnología bien usada no solo resuelve problemas: transforma vidas.”</i> 🚀
+</p>
