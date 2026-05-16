@@ -30,10 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/JuanVergara-9">
-    <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&bg_color=00000000&locale=es" alt="Estadísticas de GitHub" width="48%" />
-  </a>
-  <a href="https://github.com/JuanVergara-9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&hide_border=true&title_color=38B2AC&bg_color=00000000&locale=es" alt="Lenguajes más usados" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanVergara-9&theme=transparent&hide_border=true&title_color=38B2AC&text_color=8b949e&icon_color=38B2AC" alt="GitHub Streak" />
   </a>
 </p>
 
