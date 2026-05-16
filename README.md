@@ -28,10 +28,13 @@
 
 ### 📈 Estadísticas de GitHub
 
-<!-- Tarjetas transparentes sin bordes que se adaptan perfecto al modo claro y oscuro. locale=es lo pone en español -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&count_private=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&bg_color=00000000&locale=es" alt="Estadísticas de Juan" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&hide_border=true&title_color=38B2AC&bg_color=00000000&locale=es" alt="Lenguajes más usados" width="48%" />
+  <a href="https://github.com/JuanVergara-9">
+    <img src="https://github-readme-stats.vercel.app/api?username=JuanVergara-9&show_icons=true&hide_border=true&title_color=38B2AC&icon_color=38B2AC&bg_color=00000000&locale=es" alt="Estadísticas de GitHub" width="48%" />
+  </a>
+  <a href="https://github.com/JuanVergara-9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVergara-9&layout=compact&hide_border=true&title_color=38B2AC&bg_color=00000000&locale=es" alt="Lenguajes más usados" width="48%" />
+  </a>
 </p>
 
 ---
